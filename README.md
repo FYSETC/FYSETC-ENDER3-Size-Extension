@@ -44,7 +44,7 @@ The firmware stay in folder `Ender3-pro-v4.2.2`
 
 235x235x500: firmware-20220715-170823.bin
 
-400x400x235: firmware-20220715-165656.bin
+400x400x235: firmware-20220715-173719.bin
 
 400x400x500: firmware-20220715-171057.bin
 
